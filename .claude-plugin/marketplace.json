@@ -1,0 +1,14 @@
+{
+  "name": "code-reel",
+  "description": "Скилл для вертикальных рилсов о коде в Remotion",
+  "owner": {
+    "name": "Yaropolki4"
+  },
+  "plugins": [
+    {
+      "name": "code-reel",
+      "source": "./plugins/code-reel",
+      "description": "Вертикальный рилс 1080×1920 о программировании в Remotion: таймлайн, сцены с кодом и терминалом, звук, озвучка, субтитры"
+    }
+  ]
+}

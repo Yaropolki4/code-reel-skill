@@ -1,0 +1,10 @@
+{
+  "name": "code-reel",
+  "version": "0.1.0",
+  "description": "Вертикальный рилс 1080×1920 о программировании в Remotion: таймлайн, сцены с кодом и терминалом, звук, озвучка, субтитры",
+  "author": {
+    "name": "Yaropolki4"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/Yaropolki4/code-reel-skill"
+}

@@ -1,0 +1,4 @@
+{
+  "fixes": { "нее": "неё", "гит": "git" },
+  "code": ["npm", "git", "package.json", "tsconfig.json"]
+}
